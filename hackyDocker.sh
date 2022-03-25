@@ -1,1 +1,2 @@
-'docker ps'
+STUPIDVAR='docker ps'
+${STUPIDVAR}
