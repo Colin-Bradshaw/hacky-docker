@@ -1,2 +1,1 @@
-STUPIDVAR='docker ps'
-${STUPIDVAR}
+docker commit sonarqube
